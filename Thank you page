@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Thank You</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #d3d3d3;
+      color: #000;
+      text-align: center;
+      padding: 5rem 2rem;
+    }
+    a {
+      display: inline-block;
+      margin-top: 2rem;
+      text-decoration: none;
+      color: white;
+      background: black;
+      padding: 0.75rem 1.5rem;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Thank You!</h1>
+  <p>Your message has been sent successfully. We’ll get back to you soon.</p>
+  <a href="index.html">Return to Home</a>
+</body>
+</html>
